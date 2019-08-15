@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="54764" started-at="2019-08-15T07:32:07Z" finished-at="2019-08-15T07:33:02Z">
+  <suite name="Default suite" duration-ms="24715" started-at="2019-08-15T07:59:40Z" finished-at="2019-08-15T08:00:05Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="54764" started-at="2019-08-15T07:32:07Z" finished-at="2019-08-15T07:33:02Z">
-      <class name="Assignment.Scenerio8">
-        <test-method status="PASS" signature="m8()[pri:0, instance:Assignment.Scenerio8@5419f379]" name="m8" duration-ms="54708" started-at="2019-08-15T07:32:07Z" finished-at="2019-08-15T07:33:02Z">
+    <test name="Default test" duration-ms="24715" started-at="2019-08-15T07:59:40Z" finished-at="2019-08-15T08:00:05Z">
+      <class name="Assignment.Scenerio14">
+        <test-method status="PASS" signature="a1()[pri:0, instance:Assignment.Scenerio14@5419f379]" name="a1" duration-ms="24652" started-at="2019-08-15T07:59:40Z" finished-at="2019-08-15T08:00:05Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- m8 -->
-      </class> <!-- Assignment.Scenerio8 -->
+        </test-method> <!-- a1 -->
+      </class> <!-- Assignment.Scenerio14 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
